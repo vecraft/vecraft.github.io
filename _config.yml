@@ -1,0 +1,7 @@
+title: Vecraft's Site 
+description: my music and other stuff.
+baseurl: "" 
+url: ""
+# Build settings
+markdown: kramdown
+theme: minima
